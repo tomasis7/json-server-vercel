@@ -1,9 +1,76 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "id": 1740428713273,
+      "name": "lkjlkj",
+      "email": "lkjk@khj.kjhkj",
+      "password": "kjkjhkjhkjh"
+    },
+    {
+      "id": 1740428927884,
+      "name": "hgf",
+      "email": "hgf@jkh.hjg",
+      "password": "jhgjhgjhgjhg"
+    },
+    {
+      "id": 1740429726503,
+      "name": "jkhkjhkjhkjh",
+      "email": "kjh@dsd.se",
+      "password": "lkjlkjlkjlk"
+    },
+    {
+      "id": 1740429768574,
+      "name": "jlkjkl",
+      "email": "lkj@df.dfdf",
+      "password": "lkjlkjlkj"
+    },
+    {
+      "id": 1740434037206,
+      "name": "test",
+      "email": "test@test.se",
+      "password": "jkchdjkhfsjkdfhslkjh"
+    },
+    {
+      "id": 1740434065316,
+      "name": "koko",
+      "email": "koko@koko.se",
+      "password": "kjhkjhkjhkj"
+    },
+    {
+      "id": 1740434887750,
+      "name": "jhg",
+      "email": "jhg@fg.gg",
+      "password": "sljslkjlkj"
+    },
+    {
+      "id": 1740434923214,
+      "name": "lkjlkj",
+      "email": "lkj@dfd.df",
+      "password": "lkjkljlk"
+    },
+    {
+      "id": "563f",
+      "name": "oiuoiuoiuoiuoiu",
+      "email": "oiuoi@hjkljk.sds",
+      "password": "uuiyyhjkhjkh"
+    },
+    {
+      "id": 1740435400305,
+      "name": "ppppppppppp",
+      "email": "pppppppppp@p.pe",
+      "password": "lhlkhkjhlkjhkj"
+    },
+    {
+      "id": "724d",
+      "name": "ppppppppppp",
+      "email": "pppppppppp@p.pe",
+      "password": "lhlkhkjhlkjhkj"
+    },
+    {
+      "id": "07db",
+      "name": "jjjjjjjjjjjjjj",
+      "email": "jjjjjjjjjjj@jj.se",
+      "password": "kjhkjhkjhkjh"
+    }
+  ]
 }
